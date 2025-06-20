@@ -134,29 +134,12 @@ def main():
     print('\n'.join(output))
 
 
-# TODO: should've just started with this instead of playing around but oh well
-def hacky_but_quick():
-    con: DuckDBPyConnection = setup_duckdb()
-
-    order_ids = con.execute("SELECT DISTINCT client_order_id from pg.order_events").fetchall()
-
-    for order in order_ids:
-        # do everything in this loop 1 by 1
-        pass
-
-
-def print_summary():
-    pass
-
-
 # Every EXECUTION event has at least one corresponding ORDER_UPDATE event
 # No orphaned executions (executions without any order updates)
 # isnt this the same thing?
 
 #     todo: just noticed the time
 
-
-# TODO: pip freeze to update requirements
 
 
 if __name__ == '__main__':
