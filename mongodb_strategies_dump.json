@@ -1,0 +1,5 @@
+{"_id": "6848516332251cd951c07502", "strategy_id": "STRAT001", "name": "Market Maker Alpha", "assets": ["BTC/USDT", "ETH/USDT"], "created_at": "2025-06-10T15:38:11.645000", "updated_at": "2025-06-10T15:38:11.645000"}
+{"_id": "6848516332251cd951c07503", "strategy_id": "STRAT002", "name": "Arbitrage Bot", "assets": ["BTC/USDT", "ETH/USDT", "SOL/USDT"], "created_at": "2025-06-10T15:38:11.645000", "updated_at": "2025-06-10T15:38:11.645000"}
+{"_id": "6848516332251cd951c07504", "strategy_id": "STRAT003", "name": "Trend Following", "assets": ["SOL/USDT", "MATIC/USDT"], "created_at": "2025-06-10T15:38:11.645000", "updated_at": "2025-06-10T15:38:11.645000"}
+{"_id": "6848516332251cd951c07505", "strategy_id": "STRAT004", "name": "Mean Reversion", "assets": ["LINK/USDT", "MATIC/USDT"], "created_at": "2025-06-10T15:38:11.645000", "updated_at": "2025-06-10T15:38:11.645000"}
+{"_id": "6848516332251cd951c07506", "strategy_id": "STRAT005", "name": "High Frequency", "assets": ["BTC/USDT", "ETH/USDT", "SOL/USDT", "MATIC/USDT", "LINK/USDT"], "created_at": "2025-06-10T15:38:11.645000", "updated_at": "2025-06-10T15:38:11.645000"}

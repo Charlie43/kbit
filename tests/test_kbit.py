@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 
-"""Tests for `kbit` package."""
+"""Tests for `kbit_src` package."""
 
 import pytest
 
-from kbit import kbit
+from kbit_src import kbit
 
 
 def test(response):

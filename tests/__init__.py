@@ -1,1 +1,1 @@
-"""Unit test package for kbit."""
+"""Unit test package for kbit_src."""
